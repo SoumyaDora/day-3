@@ -6,3 +6,5 @@ import Samsung
 
 
 output=0
+
+input=1
